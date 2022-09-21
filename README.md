@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, i'm Akif
+### I'm freshman in Bilkent University's Computer Science Department
+### How to reach me: akfshn.2004@gmail.com 
 
 <!--
 **afikbae/afikbae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
