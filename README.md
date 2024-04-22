@@ -1,5 +1,5 @@
 ### Hi there, i'm Akif
-### How to reach me: mehmetakifika@outlook.com
+### You can reach me from my [mail](mehmetakifika@outlook.com)
 
 <!--
 **afikbae/afikbae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
