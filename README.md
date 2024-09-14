@@ -1,4 +1,4 @@
-### Hi there, i'm Akif, sophomore cs student @Bilkent
+### Hi there, i'm Akif, junior cs student @Bilkent
 ### You can contact me via [mail](mailto:mehmetakifika@outlook.com)
 
 <!--
